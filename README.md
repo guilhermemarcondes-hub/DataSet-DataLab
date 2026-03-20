@@ -48,7 +48,7 @@ Cálculo das correlações entre horas de estudo, aulas assistidas e faltas em r
 ### Etapa 4 — Teste de Hipótese
 Separação dos alunos em dois grupos (≤ 10h e > 10h de estudo por semana) com justificativa da escolha amostral e do teste estatístico mais adequado.
 
-### Etapa 5 — Regressão Linear *(opcional)*
+### Etapa 5 — Regressão Linear 
 Implementação de regressão linear com `scikit-learn`, avaliação do modelo com as métricas MSE, MAE e R² Score, e comparação entre valores reais e preditos.
 
 ---
