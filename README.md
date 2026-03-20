@@ -14,7 +14,7 @@ Projeto desenvolvido como parte do Desafio Trainees, com o objetivo de analisar 
 | [🐍 Etapa 2.py](./Etapa%202.py) | Estatística descritiva com NumPy |
 | [🐍 Etapa 3.py](./Etapa%203.py) | Análise de correlação entre variáveis |
 | [🐍 Etapa 4.py](./Etapa%204.py) | Seleção de amostras para teste de hipótese |
-| [🐍 Etapa 5.py](./Etapa%205.py) | Regressão linear com scikit-learn *(opcional)* |
+| [🐍 Etapa 5.py](./Etapa%205.py) | Regressão linear com scikit-learn |
 
 ---
 
